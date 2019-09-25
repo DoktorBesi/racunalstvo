@@ -16,7 +16,7 @@ int main()
     float a;
     float b;
     float rezultat;
-    cout<<"Unesite 2 broja koja elite dijeliti"<<endl;
+    cout<<"Unesite 2 broja koja Å¾elite dijeliti"<<endl;
     cin>>a;
     cin>>b;
     
@@ -24,3 +24,4 @@ int main()
     cout<<rezultat;
     system ("PAUSE");
 }
+catwoman
